@@ -22,7 +22,7 @@ The dataset is highly imbalanced:
 4. **ADASYN**
 5. **SMOTE + Tomek Links**
 
-These techniques were selected from the imbalance handling strategies reference link provided in the assignment (https://www.analyticsvidhya.com/blog/2020/07/10-techniques-to-deal-with-class-imbalance-in-machine-learning/?).
+These techniques were selected from the imbalance handling strategies reference link provided in the assignment. https://www.analyticsvidhya.com/blog/2020/07/10-techniques-to-deal-with-class-imbalance-in-machine-learning/?
 
 ---
 
@@ -38,9 +38,8 @@ These techniques were selected from the imbalance handling strategies reference 
 
 ## Results
 
-The accuracy of each model under different sampling techniques is stored in:
+The accuracy of each model under different sampling techniques is as follows:
 
-`Accuracy_Table.csv`
 <img width="678" height="240" alt="Screenshot 2026-02-02 at 7 04 28 PM" src="https://github.com/user-attachments/assets/8a423f50-ccde-46be-b119-c26a1a568d56" />
 
 ---
