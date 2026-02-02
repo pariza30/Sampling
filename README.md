@@ -60,4 +60,4 @@ pip install -r requirements.txt
 ```
 2. Run the notebook:
 
-Sampling_Assignment.ipynb
+`Sampling_Assignment.ipynb`
